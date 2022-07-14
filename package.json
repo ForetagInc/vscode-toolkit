@@ -52,7 +52,9 @@
 		"editorconfig.editorconfig",
 		"please-build.plz-vscode",
 		"ms-kubernetes-tools.vscode-kubernetes-tools",
-		"ms-azuretools.vscode-docker"
+		"ms-azuretools.vscode-docker",
+		"GraphQL.vscode-graphql",
+		"tauri-apps.tauri-vscode"
 	],
 	"contributes": {
 		"commands": [
