@@ -54,7 +54,8 @@
 		"ms-kubernetes-tools.vscode-kubernetes-tools",
 		"ms-azuretools.vscode-docker",
 		"GraphQL.vscode-graphql",
-		"tauri-apps.tauri-vscode"
+		"tauri-apps.tauri-vscode",
+		"Slint.slint"
 	],
 	"contributes": {
 		"commands": [
