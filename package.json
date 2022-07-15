@@ -1,0 +1,8 @@
+{
+	"name": "@foretag/vscode-toolkit",
+	"description": "Foretag's VSCode toolkit: themes, tooling, languages, snippets and extension packs",
+	"private": true,
+	"workspaces": [
+		"packages/*"
+	]
+}
