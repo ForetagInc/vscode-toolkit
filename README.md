@@ -3,7 +3,9 @@
 
 An open source, high quality DX focused toolkit for VSCode.
 
-[VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=foretag.development-toolkit)
+- [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=foretag.development-toolkit)
+- [OpenVSX Marketplace](https://open-vsx.org/extension/foretag/development-toolkit)
+- [Wiki](https://github.com/ForetagInc/vscode-toolkit/wiki)
 
 This is a monorepository consisting the following packages:
 
