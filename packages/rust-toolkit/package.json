@@ -29,28 +29,7 @@
 	},
 	"categories": [
 		"Programming Languages",
-		"Themes",
-		"Extension Packs",
-		"Visualization",
 		"Other"
-	],
-	"extensionPack": [
-		"foretag.themes",
-		"rust-lang.rust-analyzer",
-		"serayuzgur.crates",
-		"vadimcn.vscode-lldb",
-		"masterco.master-css-language-service",
-		"tamasfe.even-better-toml",
-		"redhat.vscode-xml",
-		"redhat.vscode-yaml",
-		"dtsvet.vscode-wasm",
-		"editorconfig.editorconfig",
-		"please-build.plz-vscode",
-		"ms-kubernetes-tools.vscode-kubernetes-tools",
-		"ms-azuretools.vscode-docker",
-		"GraphQL.vscode-graphql",
-		"tauri-apps.tauri-vscode",
-		"Slint.slint"
 	],
 	"contributes": {
 		"commands": [
@@ -253,65 +232,6 @@
 						]
 					}
 				}
-			}
-		],
-		"languages": [
-			{
-				"id": "dotenv",
-				"extensions": [
-					".flaskenv",
-					".env",
-					".env-sample",
-					".env.example",
-					".env.template",
-					".env.local",
-					".env.dev",
-					".env.dev.local",
-					".env.build",
-					".env.build.local",
-					".env.development",
-					".env.development.local",
-					".env.test",
-					".env.test.local",
-					".env.testing",
-					".env.qa",
-					".env.qa.local",
-					".env.uat",
-					".env.uat.local",
-					".env.stag",
-					".env.stag.local",
-					".env.stage",
-					".env.stage.local",
-					".env.staging",
-					".env.staging.local",
-					".env.live",
-					".env.live.local",
-					".env.production",
-					".env.production.local",
-					".env.prod",
-					".env.prod.local"
-				],
-				"filenamePatterns": [
-					"?*env"
-				],
-				"filenames": [
-					"env"
-				],
-				"configuration": "./languages/env/language-configuration.json"
-			}
-		],
-		"grammars": [
-			{
-				"language": "dotenv",
-				"scopeName": "source.env",
-				"path": "./languages/env/syntaxes/env.tmLanguage"
-			}
-		],
-		"iconThemes": [
-			{
-				"id": "foretag-default-icons",
-				"label": "Foretag: Default",
-				"path": "./icons/default-icons.json"
 			}
 		]
 	},
