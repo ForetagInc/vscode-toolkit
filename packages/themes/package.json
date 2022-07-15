@@ -2,7 +2,7 @@
 	"name": "themes",
 	"displayName": "Foretag Themes",
 	"description": "All of Foretag's themes for VSCode",
-	"version": "0.0.8",
+	"version": "0.0.1",
 	"keywords": [
 		"themes",
 		"foretag"
@@ -24,12 +24,12 @@
 			{
 				"label": "Foretag: Moon",
 				"uiTheme": "vs-dark",
-				"path": "./themes/moon.json"
+				"path": "./moon.json"
 			},
 			{
 				"label": "Foretag: Indigo",
 				"uiTheme": "vs-dark",
-				"path": "./themes/indigo.json"
+				"path": "./indigo.json"
 			}
 		]
 	}
